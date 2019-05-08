@@ -13,11 +13,18 @@ Required dependencies are listed out in requiremennt file.
 <a href='https://drive.google.com/drive/folders/1d9Z0T9giPMC4gi9P4FGsN8z0O8Cdv3uO?usp=sharing'>Trained Model Here</a>
 
 # Screenshot
-1) Sentiment analysis: Analysing text into five different catagories viz Extremly Positive, Positive, Neutral, Negative and Extremly Negative.
+```diff
++ 1) Sentiment analysis: Analysing text into five different catagories viz Extremly Positive, Positive, Neutral, Negative and Extremly Negative. ```
 ![image (1)](https://user-images.githubusercontent.com/17825243/57292620-dd0bc780-70e1-11e9-8017-0f581d834518.png)
-
-2)Summerizer: Summerizing the review feedack given by employee.
+```diff
++ 2)Summerizer: Summerizing the review feedack given by employee.```
 ![image](https://user-images.githubusercontent.com/17825243/57292624-dda45e00-70e1-11e9-9bf6-7fcd63233bb4.png)
-
-3)Visualizing the overall sentiment:</br>
+```diff
++ 3)Visualizing the overall sentiment:</br> ```
 ![image (2)](https://user-images.githubusercontent.com/17825243/57292622-dd0bc780-70e1-11e9-92be-f51fc42390ad.png)
+```diff
++ 4)See what are the momst of the employee talking about:</br> ```
+![snap](https://user-images.githubusercontent.com/17825243/57349816-47bd1180-717b-11e9-9911-721b86b351e4.png)
+
+
+
